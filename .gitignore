@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+Homestead.yaml
+.env
+*.jpg
+*.JPG
+*.pnj
+*.PNG
+*.gif
+*.GIF

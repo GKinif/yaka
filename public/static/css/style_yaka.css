@@ -1,0 +1,70 @@
+.nomargin {
+    margin: 0px !important;
+}
+
+.nopadding {
+    padding: 0px !important;
+}
+
+/* Panier */
+
+table.panier {
+    width: 100%; 
+}
+
+.total {
+    color: #FF5C33;
+}
+
+.changeprix {
+    cursor: pointer;
+}
+
+.switch-on {
+  position: absolute;
+  left: -55px;
+  top: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 9px; 
+}
+
+.switch-off {
+  position: absolute;
+  left: -25px;
+  top: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 9px; 
+}
+
+.file-upload {
+    background: #0090BC;
+    color: white;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+}
+
+.file-upload:hover {
+    background: #0081A8;
+}
+
+input[type=file] {
+    display: none;
+}
+
+.thumbnail {
+    max-width: 150px;
+}
+
+.tablecombi {
+    width: 100%;
+}
+
+.tablecombi label, .tablecombi input {
+    margin: 0px;
+}
+
